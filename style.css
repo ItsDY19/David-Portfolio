@@ -207,6 +207,10 @@ section {
     gap: 1rem;
 }
 
+.profile-pic {
+    border-radius: 2rem;
+}
+
 /* ICONS */
 
 .icon {
